@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="terminal_1.gif" alt="Terminal animation"/>
 </div>
 
 ###
